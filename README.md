@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning Python and building core programming skills.
 - 🎯 Goals: Completing daily mini-projects and strengthening my development fundamentals.
-- ⚡ Fun fact: I'm building my GitHub presence 5 minutes at a time!
+- ⚡ Fun fact: No AI just pure knowledge🧠
 
 ### 🛠️ Languages & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
